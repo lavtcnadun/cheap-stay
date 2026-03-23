@@ -1,0 +1,7 @@
+{
+  "name": "CheapStay Nuwara Eliya",
+  "description": "A modern property rental platform for Nuwara Eliya, Sri Lanka, featuring secure auth, payment verification, and an advanced admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
